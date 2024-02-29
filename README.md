@@ -1,5 +1,6 @@
 # Spaceship Game
 
+<img width="887" alt="spaceship-game" src="https://github.com/tonexie/spaceship-game/assets/131140622/9344ef7e-dea5-45ab-8367-7a2b93a9b885">
 This is a simple two-player spaceship game built using Python and the Pygame library.
 
 ## Description
