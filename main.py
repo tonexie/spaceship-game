@@ -112,7 +112,9 @@ BULLET_FIRE_SOUND = pygame.mixer.Sound(
 UPGRADE = pygame.mixer.Sound(
     os.path.join("Assets", "coins.mp3"))
 
+
 #################################################################################################################################
+#CODE
 
 # to keep track game time in current game, including when game is restart
 class CurrentClock: 
